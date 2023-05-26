@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: .NET Applications.<br>⚡ Just successfully finished my apprenticeship in Software Development. Looking forward to deepening my hands-on experience and knowledge.<br>🌱 I’m currently interested in Software and Systems Design.
 
 
