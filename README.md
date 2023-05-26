@@ -6,6 +6,8 @@
 ▶️ [Moody Colors, an online "mood ring"](https://gila-johanna-hofmann.github.io/moody-colours/) ![CSS3](https://img.shields.io/badge/css3-%23007ACC.svg?style=flat-square&logo=css3&logoColor=white&color=lightgrey) ![HTML5](https://img.shields.io/badge/html5-%23007ACC.svg?style=flat-square&logo=html5&logoColor=white&color=lightgrey) ![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=flat-square&logo=javascript&logoColor=white&color=lightgrey)
 
 ▶️ [Script to find and replace child nodes in XML files](https://github.com/Gila-Johanna-Hofmann/replace-xml-node-with-powershell) ![PowerShell](https://img.shields.io/badge/powershell-%23007ACC.svg?style=flat-square&logo=PowerShell&logoColor=white&color=lightgrey)
+▶️ [Prioritized Shopping Lists, a first shot at Angular](https://github.com/Gila-Johanna-Hofmann/priorities) ![Angular](https://img.shields.io/badge/Angular-%23007ACC.svg?style=flat-square&logo=Angular&logoColor=white&color=lightgrey) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white&color=lightgrey)
+
 
 
 ## 🌐 Socials:
