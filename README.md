@@ -7,7 +7,7 @@
 
 ▶️ [Script to find and replace child nodes in XML files](https://github.com/Gila-Johanna-Hofmann/replace-xml-node-with-powershell) ![PowerShell](https://img.shields.io/badge/powershell-%23007ACC.svg?style=flat-square&logo=PowerShell&logoColor=white&color=lightgrey)
 
-▶️ [Prioritized Shopping Lists, a first shot at Angular](https://github.com/Gila-Johanna-Hofmann/priorities) ![Angular](https://img.shields.io/badge/Angular-%23007ACC.svg?style=flat-square&logo=Angular&logoColor=white&color=lightgrey) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white&color=lightgrey)
+▶️ [Prioritized shopping lists, a first shot at Angular and developing with mock data](https://github.com/Gila-Johanna-Hofmann/priorities) ![Angular](https://img.shields.io/badge/Angular-%23007ACC.svg?style=flat-square&logo=Angular&logoColor=white&color=lightgrey) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white&color=lightgrey)
 
 
 
