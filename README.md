@@ -2,6 +2,10 @@
 🔭 I’m currently working on: .NET Applications.<br>⚡ Just successfully finished my apprenticeship in Software Development. Looking forward to deepening my hands-on experience and knowledge.<br>🌱 I’m currently interested in Software and Systems Design.
 
 
+## 💻🔨 Things I built as a learning project that I am proud of:
+▶️ [Moody Colors, an online "mood ring"](https://gila-johanna-hofmann.github.io/moody-colours/) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gila-johanna-hofmann) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@schwofmann) 
 
