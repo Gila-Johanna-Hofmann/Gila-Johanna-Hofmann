@@ -3,7 +3,7 @@
 
 
 ## 💻🔨 Things I built as a learning project that I am proud of:
-▶️ [Moody Colors, an online "mood ring"](https://gila-johanna-hofmann.github.io/moody-colours/) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
+▶️ [Moody Colors, an online "mood ring"](https://gila-johanna-hofmann.github.io/moody-colours/) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=?style=flat-square&logo=appveyor&logo=javascript&logoColor=white&color=yellow)
 
 
 ## 🌐 Socials:
