@@ -5,6 +5,8 @@
 ## 💻🔨 Things I built as a learning project that I am proud of:
 ▶️ [Moody Colors, an online "mood ring"](https://gila-johanna-hofmann.github.io/moody-colours/) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?flat-square&logo=css3&logoColor=white&color=lightgrey) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?flat-square&logo=html5&logoColor=white&color=lightgrey) ![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=?style=flat-square&logo=javascript&logoColor=white&color=lightgrey)
 
+▶️ [Script to find and replace child nodes in XML files](https://github.com/Gila-Johanna-Hofmann/replace-xml-node-with-powershell) ![PowerShell](https://img.shields.io/badge/powershell-%23007ACC.svg?style=for-the-badge&logo=PowerShell&logoColor=white&color=lightgrey)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gila-johanna-hofmann) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@schwofmann) 
