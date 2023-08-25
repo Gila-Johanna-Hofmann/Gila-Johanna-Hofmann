@@ -2,7 +2,7 @@
 👩‍💻 I’m working on: .NET Applications.<br>⚡ Just successfully finished my apprenticeship in Software Development. Looking forward to deepening my hands-on experience and knowledge.<br>🌱 I’m currently learning more about  Software Design and Systems Design.
 
 
-## 💻🔨 Things I built as a learning project that I am proud of:
+## 💻🔨 Examples of things I built as a learning project:
 ▶️ [Moody Colors](https://gila-johanna-hofmann.github.io/moody-colours/), an online "mood ring" ![CSS3](https://img.shields.io/badge/css3-%23007ACC.svg?style=flat-square&logo=css3&logoColor=white&color=lightgrey) ![HTML5](https://img.shields.io/badge/html5-%23007ACC.svg?style=flat-square&logo=html5&logoColor=white&color=lightgrey) ![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=flat-square&logo=javascript&logoColor=white&color=lightgrey)
 
 ▶️ [Script](https://github.com/Gila-Johanna-Hofmann/replace-xml-node-with-powershell) to find and replace child nodes in XML files ![PowerShell](https://img.shields.io/badge/powershell-%23007ACC.svg?style=flat-square&logo=PowerShell&logoColor=white&color=lightgrey)
