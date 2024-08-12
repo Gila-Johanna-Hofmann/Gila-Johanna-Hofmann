@@ -1,4 +1,4 @@
-# 👋 About Me:
+# About Me:
 👩‍💻 I’m working on: .NET Applications as a Junior Backend Developer.<br>
 
 ## 🌐 Socials:
